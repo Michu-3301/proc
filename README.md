@@ -1,12 +1,16 @@
 <head>
-<!DOCTYPE html>
+<!DOCTYPE html/>
 <html lang="pl">
   <meta charset="utf-8">
   <title>Komponenty komputerowe</title>
   <meta name="description" content="Serwis prezentuje komponenty komputerowe. Sprawdź, czy znasz je wszystkie">
   <meta name="keywords" content="komputery, procesory, karty graficzne, GPU, CPU, płyta główna, ziemniak">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+</html>
   <style>
+    </head>
+    <head>
     #container {
       width: 1000px;
       margin: 0 auto;
