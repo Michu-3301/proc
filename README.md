@@ -8,9 +8,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 </html>
+</head>
+<head>
   <style>
-    </head>
-    <head>
+    
+   
     #container {
       width: 1000px;
       margin: 0 auto;
@@ -65,18 +67,18 @@
 
     <div id="nav">
     <a href="https://michu-3301.github.io/komp0/">Strona Główna</a>
-    <br></br>
+    <br>     </br>
       Komponenty Komputerowe:
 
-      <br><br>
+      <br></br>
       <a href="Płyta Główna.html">- Płyta Główna</a>
-      <br><br>
+      <br></br>
       <a href="Karta Graficzna.html">- Karta Graficzna</a>
-      <br><br>
+      <br></br>
       <a href="Pamięć Ram.html">- Pamięć Ram</a>
-      <br><br>
+      <br></br>
       <a href="Zasilacz.html">- Zasilacz</a>
-      <br><br>
+      <br></br>
       <a href="Chłodzenie.html">- Chłodzenie</a><br>
       <br></br>
       <a href="Dysk.html">- Dysk HDD/SSD</a>
