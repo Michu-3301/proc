@@ -1,5 +1,5 @@
 <head>
-<!DOCTYPE html/>
+
 <html lang="pl">
   <meta charset="utf-8">
   <title>Komponenty komputerowe</title>
