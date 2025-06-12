@@ -71,7 +71,7 @@
       Komponenty Komputerowe:
 
       <br></br>
-      <a href="Płyta Główna.html">- Płyta Główna</a>
+      <a href="https://michu-3301.github.io/P-G/">- Płyta Główna</a>
       <br></br>
       <a href="Karta Graficzna.html">- Karta Graficzna</a>
       <br></br>
